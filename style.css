@@ -6,3 +6,7 @@ body {
     background-color: black;
     color: white;
 }
+img {
+    width: 50px;
+    height: 50 px;
+}
